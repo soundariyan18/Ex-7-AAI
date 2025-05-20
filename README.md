@@ -1,7 +1,7 @@
 <H3>NAME: Soundariyan MN</H3>
 <H3>REGISTER NO:212222230146</H3>
 <H3>EX. NO.7</H3>
-<H3>DATE:</H3>
+<H3>DATE: 22.05.25</H3>
 <H1 ALIGN =CENTER>Implementation of Text  Summarization</H1>
 
 ## Aim: 
